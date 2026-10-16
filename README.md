@@ -31,6 +31,7 @@ To assess whether these predictions are accurate enough to support action, we im
 
 ```mermaid
 flowchart LR
+%%{init: {"flowchart": {"padding": 18, "nodeSpacing": 40, "wrappingWidth": 300, "htmlLabels": true}, "themeVariables": {"fontSize": "13px"}}}%%
     A["Recorded clips<br>finger pushes a cap"] --> B["Tracking fingertip<br>& cap positions"]
     B --> C["WM predicts the<br>cap's displacement"]
     C --> D["Planner samples<br>candidate paths, picks the best"]
