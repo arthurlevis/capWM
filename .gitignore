@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+data/raw/
+data/processed/*.npz
+outputs/
+*.mp4
+*.MOV
+*.mov
+!docs/**/*.mp4
+!docs/**/*.gif
+.DS_Store
+*.zip
+data/demos*/
+JOB_POSTING.md

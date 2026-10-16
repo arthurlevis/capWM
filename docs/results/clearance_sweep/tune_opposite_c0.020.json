@@ -1,0 +1,1029 @@
+{
+ "results": [
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 34,
+   "final_dist": 0.009772845380499962,
+   "start_dist": 0.2583724100472182,
+   "path_len": 0.35966762116791184,
+   "min_obstacle_clearance": 0.017972697897231365
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 32,
+   "final_dist": 0.011669042564639055,
+   "start_dist": 0.31822501105142537,
+   "path_len": 0.39418849374510634,
+   "min_obstacle_clearance": 0.02449051732045622
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 24,
+   "final_dist": 0.017099419656500404,
+   "start_dist": 0.19612449897780265,
+   "path_len": 0.25991749062682223,
+   "min_obstacle_clearance": 0.015032759048711562
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 28,
+   "final_dist": 0.007256326786051077,
+   "start_dist": 0.23431897436803026,
+   "path_len": 0.25361675439715237,
+   "min_obstacle_clearance": 0.0299040388005022
+  },
+  {
+   "success": false,
+   "collided": true,
+   "timeout": false,
+   "steps": 33,
+   "final_dist": 0.11319534863951425,
+   "start_dist": 0.25947479254720496,
+   "path_len": 0.1920145684362442,
+   "min_obstacle_clearance": 0.014683754093770617
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 20,
+   "final_dist": 0.018237409331874704,
+   "start_dist": 0.19124003750209925,
+   "path_len": 0.1945265745291453,
+   "min_obstacle_clearance": 0.03812123249243144
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 32,
+   "final_dist": 0.01785644256608001,
+   "start_dist": 0.2735495957673909,
+   "path_len": 0.3085703525075639,
+   "min_obstacle_clearance": 0.025726419806236134
+  },
+  {
+   "success": false,
+   "collided": false,
+   "timeout": true,
+   "steps": 80,
+   "final_dist": 0.167451648342426,
+   "start_dist": 0.2836864320160723,
+   "path_len": 0.1912397323130821,
+   "min_obstacle_clearance": 0.02426486904349498
+  },
+  {
+   "success": false,
+   "collided": false,
+   "timeout": true,
+   "steps": 80,
+   "final_dist": 0.20864945706437496,
+   "start_dist": 0.21506285606457098,
+   "path_len": 0.03560685085498746,
+   "min_obstacle_clearance": 0.036276501502400374
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 45,
+   "final_dist": 0.015456039262969406,
+   "start_dist": 0.2001934251119751,
+   "path_len": 0.2337613761653553,
+   "min_obstacle_clearance": 0.020720755370238937
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 29,
+   "final_dist": 0.019111422844625598,
+   "start_dist": 0.22876510182906756,
+   "path_len": 0.2414884226454859,
+   "min_obstacle_clearance": 0.04256938109782348
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 24,
+   "final_dist": 0.015371264538463197,
+   "start_dist": 0.17486270741641982,
+   "path_len": 0.1832053741686592,
+   "min_obstacle_clearance": 0.06292530756463535
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 41,
+   "final_dist": 0.016787800781014384,
+   "start_dist": 0.275846996827159,
+   "path_len": 0.30073330670677056,
+   "min_obstacle_clearance": 0.02208283108566827
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 29,
+   "final_dist": 0.01186457791146217,
+   "start_dist": 0.241109827242786,
+   "path_len": 0.2463203485786304,
+   "min_obstacle_clearance": 0.03887092665531175
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 38,
+   "final_dist": 0.012108037818314791,
+   "start_dist": 0.21991746659400352,
+   "path_len": 0.33875111931403434,
+   "min_obstacle_clearance": 0.014486951040195775
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 49,
+   "final_dist": 0.005174756492969938,
+   "start_dist": 0.3162925045098215,
+   "path_len": 0.3492221568959714,
+   "min_obstacle_clearance": 0.014579468348351547
+  },
+  {
+   "success": false,
+   "collided": false,
+   "timeout": true,
+   "steps": 80,
+   "final_dist": 0.2679800530112509,
+   "start_dist": 0.26863902703810955,
+   "path_len": 0.010029904734957523,
+   "min_obstacle_clearance": 0.08374367455523954
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 32,
+   "final_dist": 0.017502765116618104,
+   "start_dist": 0.32385629983820036,
+   "path_len": 0.3481883277069829,
+   "min_obstacle_clearance": 0.02178787261989884
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 37,
+   "final_dist": 0.007514416265797345,
+   "start_dist": 0.21829304869756042,
+   "path_len": 0.24514763356986716,
+   "min_obstacle_clearance": 0.06816390546221399
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 30,
+   "final_dist": 0.017092758322933534,
+   "start_dist": 0.23479622351284385,
+   "path_len": 0.2479030057429456,
+   "min_obstacle_clearance": 0.028514523281487597
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 42,
+   "final_dist": 0.019654452468542465,
+   "start_dist": 0.24158856708698576,
+   "path_len": 0.24376436338484853,
+   "min_obstacle_clearance": 0.014318469976233834
+  },
+  {
+   "success": false,
+   "collided": false,
+   "timeout": true,
+   "steps": 80,
+   "final_dist": 0.19224685232162786,
+   "start_dist": 0.26939059519371833,
+   "path_len": 0.08347597995857993,
+   "min_obstacle_clearance": 0.034699331658489534
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 48,
+   "final_dist": 0.014609497296596045,
+   "start_dist": 0.2804465031010087,
+   "path_len": 0.35986734041702134,
+   "min_obstacle_clearance": 0.025578881237307435
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 68,
+   "final_dist": 0.003766535042493692,
+   "start_dist": 0.3180432200900182,
+   "path_len": 0.3817843602668152,
+   "min_obstacle_clearance": 0.021346411691842076
+  },
+  {
+   "success": false,
+   "collided": false,
+   "timeout": true,
+   "steps": 80,
+   "final_dist": 0.2726088417685546,
+   "start_dist": 0.2726083572777158,
+   "path_len": 1.1309605015842926e-05,
+   "min_obstacle_clearance": 0.09348563845979144
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 27,
+   "final_dist": 0.01753677243722628,
+   "start_dist": 0.24707980037305108,
+   "path_len": 0.24252582533248512,
+   "min_obstacle_clearance": 0.04496653115804601
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 37,
+   "final_dist": 0.016466130193502137,
+   "start_dist": 0.21518481604514175,
+   "path_len": 0.33867843888068594,
+   "min_obstacle_clearance": 0.020226829190869468
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 37,
+   "final_dist": 0.01814755547993187,
+   "start_dist": 0.2440532988486819,
+   "path_len": 0.25551824358580055,
+   "min_obstacle_clearance": 0.011056160940729257
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 44,
+   "final_dist": 0.004797549776479521,
+   "start_dist": 0.21459969298126913,
+   "path_len": 0.23391657446873135,
+   "min_obstacle_clearance": 0.01426635647420774
+  },
+  {
+   "success": false,
+   "collided": false,
+   "timeout": true,
+   "steps": 80,
+   "final_dist": 0.06539929447735975,
+   "start_dist": 0.2145906786492543,
+   "path_len": 0.21529740102631928,
+   "min_obstacle_clearance": 0.00803579570202373
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 29,
+   "final_dist": 0.015971882047455394,
+   "start_dist": 0.2476539619905226,
+   "path_len": 0.32344505658981226,
+   "min_obstacle_clearance": 0.02000132903613826
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 25,
+   "final_dist": 0.004795922888160427,
+   "start_dist": 0.22129585905216925,
+   "path_len": 0.23121925987422584,
+   "min_obstacle_clearance": 0.023832033045278
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 34,
+   "final_dist": 0.005116763942120613,
+   "start_dist": 0.24598801238961765,
+   "path_len": 0.24299189779732783,
+   "min_obstacle_clearance": 0.03408334445553056
+  },
+  {
+   "success": false,
+   "collided": false,
+   "timeout": true,
+   "steps": 80,
+   "final_dist": 0.07224416726179778,
+   "start_dist": 0.203442593718717,
+   "path_len": 0.1880655320117608,
+   "min_obstacle_clearance": 0.016785530694415685
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 61,
+   "final_dist": 0.011060213009668762,
+   "start_dist": 0.22946205505583037,
+   "path_len": 0.47986781529881983,
+   "min_obstacle_clearance": 0.027356016259567975
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 34,
+   "final_dist": 0.015869582973191475,
+   "start_dist": 0.2799505750095872,
+   "path_len": 0.37274294355351884,
+   "min_obstacle_clearance": 0.02251109713788641
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 36,
+   "final_dist": 0.001333435612151454,
+   "start_dist": 0.26586212049427477,
+   "path_len": 0.3705559986961003,
+   "min_obstacle_clearance": 0.027112967760922736
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 41,
+   "final_dist": 0.01730663291880487,
+   "start_dist": 0.28493774243843867,
+   "path_len": 0.31820435132279146,
+   "min_obstacle_clearance": 0.012811966047557462
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 36,
+   "final_dist": 0.016955462317833785,
+   "start_dist": 0.27432092376666617,
+   "path_len": 0.2930526851550274,
+   "min_obstacle_clearance": 0.04816978301476116
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 28,
+   "final_dist": 0.016655003853566604,
+   "start_dist": 0.2225998539320596,
+   "path_len": 0.2268557144128767,
+   "min_obstacle_clearance": -0.0029156586829372534
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 34,
+   "final_dist": 0.01182750171640467,
+   "start_dist": 0.3190324568883603,
+   "path_len": 0.34304070074089044,
+   "min_obstacle_clearance": 0.03846018386868033
+  },
+  {
+   "success": false,
+   "collided": true,
+   "timeout": false,
+   "steps": 42,
+   "final_dist": 0.17809064770973596,
+   "start_dist": 0.3085024072078058,
+   "path_len": 0.19139714837950272,
+   "min_obstacle_clearance": 0.014116953704160568
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 32,
+   "final_dist": 0.007355199701299837,
+   "start_dist": 0.23460353081498087,
+   "path_len": 0.2650732512794663,
+   "min_obstacle_clearance": 0.01873739542574616
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 38,
+   "final_dist": 0.008561487683388097,
+   "start_dist": 0.27272205279788053,
+   "path_len": 0.32992462208649487,
+   "min_obstacle_clearance": 0.008748856149875056
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 29,
+   "final_dist": 0.017499304616876366,
+   "start_dist": 0.2817567578465511,
+   "path_len": 0.28453711745862637,
+   "min_obstacle_clearance": 0.01984639093618438
+  },
+  {
+   "success": false,
+   "collided": false,
+   "timeout": true,
+   "steps": 80,
+   "final_dist": 0.0503842128021419,
+   "start_dist": 0.22410623426484497,
+   "path_len": 0.21924976546805156,
+   "min_obstacle_clearance": 0.04624087017288024
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 23,
+   "final_dist": 0.015581200642882846,
+   "start_dist": 0.16941577935030566,
+   "path_len": 0.21258941992175082,
+   "min_obstacle_clearance": 0.025855160616428174
+  },
+  {
+   "success": false,
+   "collided": true,
+   "timeout": false,
+   "steps": 25,
+   "final_dist": 0.23242702735316487,
+   "start_dist": 0.2604288744473201,
+   "path_len": 0.1712839924182459,
+   "min_obstacle_clearance": 0.013693589334591132
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 30,
+   "final_dist": 0.012168242325016608,
+   "start_dist": 0.2544711144937334,
+   "path_len": 0.28352888742151333,
+   "min_obstacle_clearance": 0.032022098720040124
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 43,
+   "final_dist": 0.010018107529518204,
+   "start_dist": 0.24149204467711843,
+   "path_len": 0.25947410731392084,
+   "min_obstacle_clearance": 0.026166851004680643
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 64,
+   "final_dist": 0.018669082175072724,
+   "start_dist": 0.2605921875201137,
+   "path_len": 0.2715997386731804,
+   "min_obstacle_clearance": 0.017305083543098333
+  },
+  {
+   "success": false,
+   "collided": false,
+   "timeout": true,
+   "steps": 80,
+   "final_dist": 0.2548305030323794,
+   "start_dist": 0.2548305207187459,
+   "path_len": 1.0049540603342558e-05,
+   "min_obstacle_clearance": 0.06842846989931456
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 39,
+   "final_dist": 0.019074036624538986,
+   "start_dist": 0.21221289150302453,
+   "path_len": 0.2135891867237626,
+   "min_obstacle_clearance": 0.03230787874636584
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 42,
+   "final_dist": 0.019851144579147197,
+   "start_dist": 0.25865867018702743,
+   "path_len": 0.33311860779029123,
+   "min_obstacle_clearance": 0.019275099084309962
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 29,
+   "final_dist": 0.01996451177513166,
+   "start_dist": 0.20061335294874305,
+   "path_len": 0.20102075503944378,
+   "min_obstacle_clearance": 0.02129801138412132
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 24,
+   "final_dist": 0.019982961664501836,
+   "start_dist": 0.19062762812448797,
+   "path_len": 0.18697598514793914,
+   "min_obstacle_clearance": 0.039230713905667174
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 42,
+   "final_dist": 0.014927911431174608,
+   "start_dist": 0.2200013199006094,
+   "path_len": 0.2429452730943946,
+   "min_obstacle_clearance": 0.022638242078964498
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 33,
+   "final_dist": 0.015964197345769517,
+   "start_dist": 0.3156498645902154,
+   "path_len": 0.30997502270995103,
+   "min_obstacle_clearance": 0.015469314231646953
+  },
+  {
+   "success": false,
+   "collided": false,
+   "timeout": true,
+   "steps": 80,
+   "final_dist": 0.23348325853890836,
+   "start_dist": 0.23348264866214438,
+   "path_len": 1.0512747892660774e-05,
+   "min_obstacle_clearance": 0.06037195851759027
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 38,
+   "final_dist": 0.012275610505640728,
+   "start_dist": 0.24441262105523093,
+   "path_len": 0.26071808300332106,
+   "min_obstacle_clearance": 0.05371713242896812
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 51,
+   "final_dist": 0.0027639156605513224,
+   "start_dist": 0.23140033407297655,
+   "path_len": 0.3886232626200052,
+   "min_obstacle_clearance": 0.016176002204768516
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 34,
+   "final_dist": 0.01913588764376192,
+   "start_dist": 0.20462648019608284,
+   "path_len": 0.26222212573403886,
+   "min_obstacle_clearance": 0.025693712158136442
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 29,
+   "final_dist": 0.014095345487538569,
+   "start_dist": 0.19738460598753596,
+   "path_len": 0.21096216271320403,
+   "min_obstacle_clearance": 0.02776403547311384
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 43,
+   "final_dist": 0.008867812274615713,
+   "start_dist": 0.226665673615176,
+   "path_len": 0.33075436296392324,
+   "min_obstacle_clearance": 0.022575475912876432
+  },
+  {
+   "success": false,
+   "collided": false,
+   "timeout": true,
+   "steps": 80,
+   "final_dist": 0.2556403484184874,
+   "start_dist": 0.25564076911772204,
+   "path_len": 1.1982527731844918e-05,
+   "min_obstacle_clearance": 0.08030039997699354
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 27,
+   "final_dist": 0.013824585895631944,
+   "start_dist": 0.17147651963054752,
+   "path_len": 0.22649385510353418,
+   "min_obstacle_clearance": 0.012183844007842871
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 17,
+   "final_dist": 0.013637102365460564,
+   "start_dist": 0.16127530278027283,
+   "path_len": 0.18407613619188384,
+   "min_obstacle_clearance": 0.03542618020931059
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 33,
+   "final_dist": 0.014835761651273534,
+   "start_dist": 0.2600800109529857,
+   "path_len": 0.2687090349515415,
+   "min_obstacle_clearance": 0.03095889403747131
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 32,
+   "final_dist": 0.0075274883057582075,
+   "start_dist": 0.18740759572461296,
+   "path_len": 0.21842416779498272,
+   "min_obstacle_clearance": 0.03676008600450599
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 28,
+   "final_dist": 0.018270378858935815,
+   "start_dist": 0.21231043892656792,
+   "path_len": 0.252691975429811,
+   "min_obstacle_clearance": 0.03979382930169158
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 29,
+   "final_dist": 0.017897742430225374,
+   "start_dist": 0.21455473768590871,
+   "path_len": 0.241148100302695,
+   "min_obstacle_clearance": 0.023671928631913024
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 31,
+   "final_dist": 0.015405828664647733,
+   "start_dist": 0.26663975008838786,
+   "path_len": 0.29167403702391737,
+   "min_obstacle_clearance": 0.029978210472494667
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 60,
+   "final_dist": 0.01554887781212687,
+   "start_dist": 0.2817834936908698,
+   "path_len": 0.42256847107042383,
+   "min_obstacle_clearance": 0.03119345705152886
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 38,
+   "final_dist": 0.019693490514304298,
+   "start_dist": 0.27621576021320965,
+   "path_len": 0.32601577198427883,
+   "min_obstacle_clearance": 0.023503651703222127
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 34,
+   "final_dist": 0.012342017200507883,
+   "start_dist": 0.2111291548364645,
+   "path_len": 0.2869359090586541,
+   "min_obstacle_clearance": 0.029512570621410675
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 35,
+   "final_dist": 0.016608183521331952,
+   "start_dist": 0.3050564262571644,
+   "path_len": 0.36490505846131754,
+   "min_obstacle_clearance": 0.026797126617021133
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 40,
+   "final_dist": 0.015958272223588064,
+   "start_dist": 0.25099291867844437,
+   "path_len": 0.2554798809409164,
+   "min_obstacle_clearance": 0.016427545332134988
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 31,
+   "final_dist": 0.016126458749245044,
+   "start_dist": 0.22536947007011093,
+   "path_len": 0.3305143316301807,
+   "min_obstacle_clearance": 0.02998961072118108
+  },
+  {
+   "success": false,
+   "collided": false,
+   "timeout": true,
+   "steps": 80,
+   "final_dist": 0.10727040204221609,
+   "start_dist": 0.20510510202778087,
+   "path_len": 0.1749065357432606,
+   "min_obstacle_clearance": 0.005299017746985669
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 32,
+   "final_dist": 0.013337040492179361,
+   "start_dist": 0.2282531143429493,
+   "path_len": 0.238943245309431,
+   "min_obstacle_clearance": 0.026162346786896072
+  },
+  {
+   "success": false,
+   "collided": false,
+   "timeout": true,
+   "steps": 80,
+   "final_dist": 0.30287236035920306,
+   "start_dist": 0.3028726574310059,
+   "path_len": 1.1799399671871978e-05,
+   "min_obstacle_clearance": 0.09753572967316318
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 22,
+   "final_dist": 0.012865941301262377,
+   "start_dist": 0.22762896343519265,
+   "path_len": 0.23599947234080204,
+   "min_obstacle_clearance": 0.020393112612537838
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 55,
+   "final_dist": 0.01734632989589218,
+   "start_dist": 0.36085764002919135,
+   "path_len": 0.4000720579291168,
+   "min_obstacle_clearance": 0.023177319754339926
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 32,
+   "final_dist": 0.012191533561640563,
+   "start_dist": 0.17156746275811055,
+   "path_len": 0.19776138969874932,
+   "min_obstacle_clearance": 0.033216592386761654
+  },
+  {
+   "success": false,
+   "collided": false,
+   "timeout": true,
+   "steps": 80,
+   "final_dist": 0.12039571234687259,
+   "start_dist": 0.2782448097706716,
+   "path_len": 0.29537220767640127,
+   "min_obstacle_clearance": 0.023440764977845217
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 34,
+   "final_dist": 0.010440629491662114,
+   "start_dist": 0.22217480164493897,
+   "path_len": 0.3092279093096297,
+   "min_obstacle_clearance": 0.019335815920485378
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 52,
+   "final_dist": 0.00427519626122354,
+   "start_dist": 0.2549047667472328,
+   "path_len": 0.37935945283236283,
+   "min_obstacle_clearance": 0.019267113973455676
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 26,
+   "final_dist": 0.017457894841365586,
+   "start_dist": 0.17785817802811865,
+   "path_len": 0.17796509018291665,
+   "min_obstacle_clearance": 0.04490171099477044
+  },
+  {
+   "success": false,
+   "collided": false,
+   "timeout": true,
+   "steps": 80,
+   "final_dist": 0.07546455587847671,
+   "start_dist": 0.2186123562646014,
+   "path_len": 0.21688048955639888,
+   "min_obstacle_clearance": 0.026100696063218125
+  },
+  {
+   "success": false,
+   "collided": false,
+   "timeout": true,
+   "steps": 80,
+   "final_dist": 0.1638530917435695,
+   "start_dist": 0.22021062750489662,
+   "path_len": 0.08931732470948113,
+   "min_obstacle_clearance": 0.03333056371720746
+  },
+  {
+   "success": false,
+   "collided": false,
+   "timeout": true,
+   "steps": 80,
+   "final_dist": 0.05477003902012551,
+   "start_dist": 0.23546174940843603,
+   "path_len": 0.2024930577593112,
+   "min_obstacle_clearance": 0.021416057321313846
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 43,
+   "final_dist": 0.006166969204919314,
+   "start_dist": 0.25555226123024394,
+   "path_len": 0.34838519972931814,
+   "min_obstacle_clearance": 0.02396276289049029
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 25,
+   "final_dist": 0.007191055189498852,
+   "start_dist": 0.21100874268019804,
+   "path_len": 0.21749611523254828,
+   "min_obstacle_clearance": 0.05101974129918741
+  },
+  {
+   "success": false,
+   "collided": true,
+   "timeout": false,
+   "steps": 21,
+   "final_dist": 0.18150875076408302,
+   "start_dist": 0.3018078772294291,
+   "path_len": 0.1411467343535802,
+   "min_obstacle_clearance": 0.00088139491837513
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 19,
+   "final_dist": 0.014963947880569508,
+   "start_dist": 0.20128186818744678,
+   "path_len": 0.21585056530909302,
+   "min_obstacle_clearance": 0.046245151921656485
+  },
+  {
+   "success": false,
+   "collided": false,
+   "timeout": true,
+   "steps": 80,
+   "final_dist": 0.08376533220516276,
+   "start_dist": 0.21137093492813444,
+   "path_len": 0.15778457231401335,
+   "min_obstacle_clearance": 0.023347260770371678
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 31,
+   "final_dist": 0.009662484672853185,
+   "start_dist": 0.19187562011031437,
+   "path_len": 0.20077644678009984,
+   "min_obstacle_clearance": 0.028886335761829703
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 30,
+   "final_dist": 0.011655456292814457,
+   "start_dist": 0.23265235879119817,
+   "path_len": 0.2512382432903094,
+   "min_obstacle_clearance": 0.025895856322008658
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 28,
+   "final_dist": 0.0197268264260384,
+   "start_dist": 0.1847140627300331,
+   "path_len": 0.2164467535359051,
+   "min_obstacle_clearance": 0.024766905149429613
+  },
+  {
+   "success": true,
+   "collided": false,
+   "timeout": false,
+   "steps": 39,
+   "final_dist": 0.009081340422284812,
+   "start_dist": 0.2563248500063994,
+   "path_len": 0.3814490259902656,
+   "min_obstacle_clearance": 0.028163584786837358
+  }
+ ],
+ "success_rate": 0.78,
+ "args": {
+  "model": "models/wm_video_h0.pt",
+  "policy": "wm",
+  "episodes": 100,
+  "seed": 500,
+  "max_steps": 80,
+  "video": null,
+  "video_episodes": 3,
+  "video_dir": null,
+  "video_scale": 0.5,
+  "horizon": 12,
+  "samples": 1024,
+  "iters": 4,
+  "w_std": 2.0,
+  "no_geodesic": false,
+  "clearance": 0.02,
+  "obstacles": null,
+  "out": "outputs/tune_opposite_c0.020.json",
+  "hard": false,
+  "layout": null,
+  "opposite": true,
+  "save_logs": null,
+  "config": null
+ }
+}

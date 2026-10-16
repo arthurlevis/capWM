@@ -1,0 +1,49 @@
+# All lengths in metres. Box frame: origin at the inner floor corner with minimum
+# world x and y; x runs along the robot's forward axis, y laterally.
+box:
+  size_x: 0.28          # inner floor, short side (measured)
+  size_y: 0.37          # inner floor, long side (measured)
+  center: [0.50, 0.0]   # centre of the inner floor in robot base frame
+  floor_thickness: 0.003
+  wall_height: 0.035
+  wall_thickness: 0.004 # rim band ~10 px at ~2500 px/m
+  floor_friction: 0.6   # chosen by the real-to-sim check: video model predicts sim pushes best at 0.5-0.7
+
+cylinder:
+  radius: 0.015         # measured: 3 cm diameter plastic cap
+  height: 0.010         # measured
+  mass: 0.005
+
+obstacles:
+  n_min: 3
+  n_max: 5
+  radius: 0.0085        # measured 1.5 x 1.5 cm houses, modelled as cylinders covering the square
+  height: 0.015
+  max_slots: 6          # pre-allocated geoms; unused ones are parked below the floor
+
+probe:
+  enabled: true         # finger-like capsule held in the closed gripper
+  radius: 0.0075        # measured fingertip width 1.5 cm; real contact distance is fuzzy (soft finger overhangs the 1 cm cap)
+  tip_height: 0.005     # probe tip above the floor: mid-height of the 1 cm cap
+  tip_offset: 0.1475    # probe tip below the hand frame; fingertips then clear the box walls
+
+control:
+  dt: 0.1               # planner / dataset step (10 Hz)
+  max_step: 0.03        # max commanded tip displacement per dt
+  sim_timestep: 0.002
+  ik_substeps: 10
+  ik_damping: 0.05
+  ik_rot_gain: 0.5
+  kv: 150               # arm actuator velocity gain (Menagerie default 450)
+  windup_limit: 0.3     # rad; max gap between commanded and measured joints (0.08 stalls the descent)
+  yield_dist: 0.01      # m; target snaps to the probe when it is blocked by this much
+
+task:
+  wall_margin: 0.05     # min distance of cylinder/goal centre from walls at reset
+  min_start_goal_dist: 0.10
+  goal_tol: 0.02
+  obstacle_clearance: 0.02
+
+render:
+  width: 640
+  height: 480

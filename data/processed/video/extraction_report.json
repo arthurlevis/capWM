@@ -1,0 +1,478 @@
+{
+ "IMG_0498.MOV": {
+  "frames": 194,
+  "fps": 30.0,
+  "frame_valid": 0.31958762886597936,
+  "steps": 65,
+  "step_valid": 0.27692307692307694
+ },
+ "IMG_0499.MOV": {
+  "frames": 196,
+  "fps": 30.0,
+  "frame_valid": 0.39285714285714285,
+  "steps": 66,
+  "step_valid": 0.2727272727272727
+ },
+ "IMG_0500.MOV": {
+  "frames": 241,
+  "fps": 30.0,
+  "frame_valid": 0.46887966804979253,
+  "steps": 81,
+  "step_valid": 0.41975308641975306
+ },
+ "IMG_0501.MOV": {
+  "frames": 190,
+  "fps": 30.0,
+  "frame_valid": 0.3526315789473684,
+  "steps": 63,
+  "step_valid": 0.3333333333333333
+ },
+ "IMG_0502.MOV": {
+  "frames": 210,
+  "fps": 30.0,
+  "frame_valid": 0.6571428571428571,
+  "steps": 70,
+  "step_valid": 0.6428571428571429
+ },
+ "IMG_0503.MOV": {
+  "frames": 206,
+  "fps": 30.0,
+  "frame_valid": 0.7184466019417476,
+  "steps": 69,
+  "step_valid": 0.6956521739130435
+ },
+ "IMG_0504.MOV": {
+  "frames": 201,
+  "fps": 30.0,
+  "frame_valid": 0.7064676616915423,
+  "steps": 67,
+  "step_valid": 0.6716417910447762
+ },
+ "IMG_0505.MOV": {
+  "frames": 215,
+  "fps": 30.0,
+  "frame_valid": 0.48372093023255813,
+  "steps": 72,
+  "step_valid": 0.4583333333333333
+ },
+ "IMG_0506.MOV": {
+  "frames": 282,
+  "fps": 30.0,
+  "frame_valid": 0.5780141843971631,
+  "steps": 94,
+  "step_valid": 0.5638297872340425
+ },
+ "IMG_0507.MOV": {
+  "frames": 183,
+  "fps": 30.0,
+  "frame_valid": 0.7158469945355191,
+  "steps": 61,
+  "step_valid": 0.6885245901639344
+ },
+ "IMG_0508.MOV": {
+  "frames": 226,
+  "fps": 30.0,
+  "frame_valid": 0.6769911504424779,
+  "steps": 76,
+  "step_valid": 0.6578947368421053
+ },
+ "IMG_0509.MOV": {
+  "frames": 189,
+  "fps": 30.0,
+  "frame_valid": 0.43915343915343913,
+  "steps": 63,
+  "step_valid": 0.4126984126984127
+ },
+ "IMG_0510.MOV": {
+  "frames": 227,
+  "fps": 30.0,
+  "frame_valid": 0.4185022026431718,
+  "steps": 76,
+  "step_valid": 0.40789473684210525
+ },
+ "IMG_0511.MOV": {
+  "frames": 165,
+  "fps": 30.0,
+  "frame_valid": 0.6848484848484848,
+  "steps": 55,
+  "step_valid": 0.6727272727272727
+ },
+ "IMG_0512.MOV": {
+  "frames": 191,
+  "fps": 30.0,
+  "frame_valid": 0.7120418848167539,
+  "steps": 64,
+  "step_valid": 0.703125
+ },
+ "IMG_0513.MOV": {
+  "frames": 207,
+  "fps": 30.0,
+  "frame_valid": 0.642512077294686,
+  "steps": 69,
+  "step_valid": 0.6231884057971014
+ },
+ "IMG_0514.MOV": {
+  "frames": 208,
+  "fps": 30.0,
+  "frame_valid": 0.7451923076923077,
+  "steps": 70,
+  "step_valid": 0.7285714285714285
+ },
+ "IMG_0515.MOV": {
+  "frames": 147,
+  "fps": 30.0,
+  "frame_valid": 0.6054421768707483,
+  "steps": 49,
+  "step_valid": 0.5918367346938775
+ },
+ "IMG_0516.MOV": {
+  "frames": 189,
+  "fps": 30.0,
+  "frame_valid": 0.4021164021164021,
+  "steps": 63,
+  "step_valid": 0.3968253968253968
+ },
+ "IMG_0517.MOV": {
+  "frames": 194,
+  "fps": 30.0,
+  "frame_valid": 0.422680412371134,
+  "steps": 65,
+  "step_valid": 0.35384615384615387
+ },
+ "IMG_0518.MOV": {
+  "frames": 264,
+  "fps": 30.0,
+  "frame_valid": 0.5909090909090909,
+  "steps": 88,
+  "step_valid": 0.5795454545454546
+ },
+ "IMG_0519.MOV": {
+  "frames": 267,
+  "fps": 30.0,
+  "frame_valid": 0.6853932584269663,
+  "steps": 89,
+  "step_valid": 0.6741573033707865
+ },
+ "IMG_0521.MOV": {
+  "frames": 303,
+  "fps": 30.0,
+  "frame_valid": 0.768976897689769,
+  "steps": 101,
+  "step_valid": 0.7623762376237624
+ },
+ "IMG_0522.MOV": {
+  "frames": 333,
+  "fps": 30.0,
+  "frame_valid": 0.6486486486486487,
+  "steps": 111,
+  "step_valid": 0.6396396396396397
+ },
+ "IMG_0523.MOV": {
+  "frames": 374,
+  "fps": 30.0,
+  "frame_valid": 0.8609625668449198,
+  "steps": 125,
+  "step_valid": 0.848
+ },
+ "IMG_0524.MOV": {
+  "frames": 369,
+  "fps": 30.0,
+  "frame_valid": 0.6856368563685636,
+  "steps": 123,
+  "step_valid": 0.6829268292682927
+ },
+ "IMG_0525.MOV": {
+  "frames": 433,
+  "fps": 30.003464603302923,
+  "frame_valid": 0.7274826789838337,
+  "steps": 144,
+  "step_valid": 0.7152777777777778
+ },
+ "IMG_0526.MOV": {
+  "frames": 293,
+  "fps": 30.0,
+  "frame_valid": 0.5938566552901023,
+  "steps": 98,
+  "step_valid": 0.5816326530612245
+ },
+ "IMG_0527.MOV": {
+  "frames": 425,
+  "fps": 30.003529827038474,
+  "frame_valid": 0.8329411764705882,
+  "steps": 142,
+  "step_valid": 0.8169014084507042
+ },
+ "IMG_0528.MOV": {
+  "frames": 276,
+  "fps": 30.0,
+  "frame_valid": 0.6304347826086957,
+  "steps": 92,
+  "step_valid": 0.6195652173913043
+ },
+ "IMG_0529.MOV": {
+  "frames": 243,
+  "fps": 30.0,
+  "frame_valid": 0.6172839506172839,
+  "steps": 81,
+  "step_valid": 0.5925925925925926
+ },
+ "IMG_0531.MOV": {
+  "frames": 351,
+  "fps": 30.0,
+  "frame_valid": 0.7749287749287749,
+  "steps": 117,
+  "step_valid": 0.7692307692307693
+ },
+ "IMG_0532.MOV": {
+  "frames": 280,
+  "fps": 30.0,
+  "frame_valid": 0.8035714285714286,
+  "steps": 94,
+  "step_valid": 0.7872340425531915
+ },
+ "IMG_0533.MOV": {
+  "frames": 289,
+  "fps": 30.0,
+  "frame_valid": 0.6782006920415224,
+  "steps": 96,
+  "step_valid": 0.65625
+ },
+ "IMG_0534.MOV": {
+  "frames": 353,
+  "fps": 30.0,
+  "frame_valid": 0.8385269121813032,
+  "steps": 118,
+  "step_valid": 0.8305084745762712
+ },
+ "IMG_0535.MOV": {
+  "frames": 324,
+  "fps": 30.0,
+  "frame_valid": 0.8148148148148148,
+  "steps": 108,
+  "step_valid": 0.7870370370370371
+ },
+ "IMG_0536.MOV": {
+  "frames": 336,
+  "fps": 30.0,
+  "frame_valid": 0.8630952380952381,
+  "steps": 112,
+  "step_valid": 0.8482142857142857
+ },
+ "IMG_0537.MOV": {
+  "frames": 374,
+  "fps": 30.0,
+  "frame_valid": 0.7112299465240641,
+  "steps": 125,
+  "step_valid": 0.704
+ },
+ "IMG_0538.MOV": {
+  "frames": 304,
+  "fps": 30.0,
+  "frame_valid": 0.26973684210526316,
+  "steps": 101,
+  "step_valid": 0.26732673267326734
+ },
+ "IMG_0541.MOV": {
+  "frames": 264,
+  "fps": 30.0,
+  "frame_valid": 0.5757575757575758,
+  "steps": 88,
+  "step_valid": 0.5681818181818182
+ },
+ "IMG_0543.MOV": {
+  "frames": 323,
+  "fps": 30.0,
+  "frame_valid": 0.6253869969040248,
+  "steps": 108,
+  "step_valid": 0.5833333333333334
+ },
+ "IMG_0544.MOV": {
+  "frames": 177,
+  "fps": 30.0,
+  "frame_valid": 0.4011299435028249,
+  "steps": 59,
+  "step_valid": 0.3898305084745763
+ },
+ "IMG_0545.MOV": {
+  "frames": 214,
+  "fps": 30.0,
+  "frame_valid": 0.6121495327102804,
+  "steps": 71,
+  "step_valid": 0.6056338028169014
+ },
+ "IMG_0546.MOV": {
+  "frames": 144,
+  "fps": 30.0,
+  "frame_valid": 0.5277777777777778,
+  "steps": 48,
+  "step_valid": 0.5208333333333334
+ },
+ "IMG_0547.MOV": {
+  "frames": 126,
+  "fps": 30.0,
+  "frame_valid": 0.5714285714285714,
+  "steps": 42,
+  "step_valid": 0.5238095238095238
+ },
+ "IMG_0548.MOV": {
+  "frames": 208,
+  "fps": 30.0,
+  "frame_valid": 0.7403846153846154,
+  "steps": 70,
+  "step_valid": 0.7142857142857143
+ },
+ "IMG_0549.MOV": {
+  "frames": 166,
+  "fps": 30.0,
+  "frame_valid": 0.5240963855421686,
+  "steps": 56,
+  "step_valid": 0.5
+ },
+ "IMG_0550.MOV": {
+  "frames": 153,
+  "fps": 30.0,
+  "frame_valid": 0.7058823529411765,
+  "steps": 51,
+  "step_valid": 0.7058823529411765
+ },
+ "IMG_0551.MOV": {
+  "frames": 183,
+  "fps": 30.0,
+  "frame_valid": 0.6721311475409836,
+  "steps": 61,
+  "step_valid": 0.639344262295082
+ },
+ "IMG_0552.MOV": {
+  "frames": 191,
+  "fps": 30.0,
+  "frame_valid": 0.6544502617801047,
+  "steps": 64,
+  "step_valid": 0.640625
+ },
+ "IMG_0553.MOV": {
+  "frames": 152,
+  "fps": 30.0,
+  "frame_valid": 0.743421052631579,
+  "steps": 51,
+  "step_valid": 0.7058823529411765
+ },
+ "IMG_0554.MOV": {
+  "frames": 155,
+  "fps": 30.0,
+  "frame_valid": 0.5935483870967742,
+  "steps": 52,
+  "step_valid": 0.5769230769230769
+ },
+ "IMG_0555.MOV": {
+  "frames": 154,
+  "fps": 30.0,
+  "frame_valid": 0.7142857142857143,
+  "steps": 51,
+  "step_valid": 0.7058823529411765
+ },
+ "IMG_0557.MOV": {
+  "frames": 181,
+  "fps": 30.0,
+  "frame_valid": 0.5966850828729282,
+  "steps": 61,
+  "step_valid": 0.5737704918032787
+ },
+ "IMG_0558.MOV": {
+  "frames": 294,
+  "fps": 30.0,
+  "frame_valid": 0.5884353741496599,
+  "steps": 98,
+  "step_valid": 0.5714285714285714
+ },
+ "IMG_0559.MOV": {
+  "frames": 134,
+  "fps": 30.0,
+  "frame_valid": 0.29850746268656714,
+  "steps": 45,
+  "step_valid": 0.26666666666666666
+ },
+ "IMG_0563.MOV": {
+  "frames": 160,
+  "fps": 30.0,
+  "frame_valid": 0.64375,
+  "steps": 53,
+  "step_valid": 0.6226415094339622
+ },
+ "IMG_0564.MOV": {
+  "frames": 156,
+  "fps": 30.0,
+  "frame_valid": 0.25,
+  "steps": 52,
+  "step_valid": 0.21153846153846154
+ },
+ "IMG_0565.MOV": {
+  "frames": 179,
+  "fps": 30.0,
+  "frame_valid": 0.7262569832402235,
+  "steps": 60,
+  "step_valid": 0.7166666666666667
+ },
+ "IMG_0566.MOV": {
+  "frames": 168,
+  "fps": 30.0,
+  "frame_valid": 0.5714285714285714,
+  "steps": 56,
+  "step_valid": 0.5
+ },
+ "IMG_0567.MOV": {
+  "frames": 248,
+  "fps": 30.0,
+  "frame_valid": 0.4032258064516129,
+  "steps": 83,
+  "step_valid": 0.3855421686746988
+ },
+ "IMG_0568.MOV": {
+  "frames": 123,
+  "fps": 30.0,
+  "frame_valid": 0.6585365853658537,
+  "steps": 41,
+  "step_valid": 0.6585365853658537
+ },
+ "IMG_0569.MOV": {
+  "frames": 305,
+  "fps": 30.0,
+  "frame_valid": 0.6196721311475409,
+  "steps": 102,
+  "step_valid": 0.6078431372549019
+ },
+ "IMG_0570.MOV": {
+  "frames": 193,
+  "fps": 30.0,
+  "frame_valid": 0.7979274611398963,
+  "steps": 65,
+  "step_valid": 0.7692307692307693
+ },
+ "IMG_0571.MOV": {
+  "frames": 384,
+  "fps": 30.0,
+  "frame_valid": 0.7447916666666666,
+  "steps": 128,
+  "step_valid": 0.7421875
+ },
+ "IMG_0572.MOV": {
+  "frames": 432,
+  "fps": 30.003472624146312,
+  "frame_valid": 0.7615740740740741,
+  "steps": 144,
+  "step_valid": 0.7569444444444444
+ },
+ "IMG_0573.MOV": {
+  "frames": 290,
+  "fps": 30.0,
+  "frame_valid": 0.8620689655172413,
+  "steps": 97,
+  "step_valid": 0.8556701030927835
+ },
+ "IMG_0574.MOV": {
+  "frames": 360,
+  "fps": 30.0,
+  "frame_valid": 0.7527777777777778,
+  "steps": 120,
+  "step_valid": 0.7416666666666667
+ }
+}

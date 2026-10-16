@@ -1,0 +1,26 @@
+{
+ "model": "outputs/wm_video_h0.pt",
+ "data": "data/processed/sim",
+ "n": 5917,
+ "all": {
+  "rmse_mm": 2.8832319658249617,
+  "rmse_zero_mm": 5.7523977011442184,
+  "rmse_moving_mm": 5.125132389366627,
+  "frac_moving": 0.2242690622806549,
+  "mean_std_mm": 0.4422256606630981
+ },
+ "near": {
+  "rmse_mm": 3.378062043339014,
+  "rmse_zero_mm": 7.163946516811848,
+  "rmse_moving_mm": 5.09291235357523,
+  "frac_moving": 0.3471421003341675,
+  "mean_std_mm": 0.4871528362855315
+ },
+ "far": {
+  "rmse_mm": 1.6413397388532758,
+  "rmse_zero_mm": 0.15632330905646086,
+  "rmse_moving_mm": 13.09837307780981,
+  "frac_moving": 0.0014265335630625486,
+  "mean_std_mm": 0.360745849320665
+ }
+}

@@ -1,0 +1,82 @@
+[
+ {
+  "layout": "opposite",
+  "controller": "world_planner",
+  "n": 100,
+  "success": 66,
+  "collision": 19,
+  "timeout": 15,
+  "steps_median": 32.5,
+  "clearance_mm": 23.629034658279664
+ },
+ {
+  "layout": "opposite",
+  "controller": "sim_planner",
+  "n": 100,
+  "success": 91,
+  "collision": 4,
+  "timeout": 5,
+  "steps_median": 29.0,
+  "clearance_mm": 31.943799294791255
+ },
+ {
+  "layout": "opposite",
+  "controller": "rule_planner",
+  "n": 100,
+  "success": 30,
+  "collision": 66,
+  "timeout": 4,
+  "steps_median": 43.0,
+  "clearance_mm": 13.990773291052648
+ },
+ {
+  "layout": "opposite",
+  "controller": "smolvla",
+  "n": 100,
+  "success": 0,
+  "collision": 38,
+  "timeout": 62,
+  "steps_median": null,
+  "clearance_mm": 80.75059856059123
+ },
+ {
+  "layout": "barrier",
+  "controller": "world_planner",
+  "n": 100,
+  "success": 71,
+  "collision": 24,
+  "timeout": 5,
+  "steps_median": 26.0,
+  "clearance_mm": 21.141959368066807
+ },
+ {
+  "layout": "barrier",
+  "controller": "sim_planner",
+  "n": 100,
+  "success": 100,
+  "collision": 0,
+  "timeout": 0,
+  "steps_median": 24.5,
+  "clearance_mm": 32.915204501585684
+ },
+ {
+  "layout": "barrier",
+  "controller": "rule_planner",
+  "n": 100,
+  "success": 27,
+  "collision": 62,
+  "timeout": 11,
+  "steps_median": 36.0,
+  "clearance_mm": 14.100615880845542
+ },
+ {
+  "layout": "barrier",
+  "controller": "smolvla",
+  "n": 100,
+  "success": 0,
+  "collision": 40,
+  "timeout": 60,
+  "steps_median": null,
+  "clearance_mm": 68.54443643511395
+ }
+]
