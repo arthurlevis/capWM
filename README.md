@@ -30,7 +30,6 @@ To assess whether these predictions are accurate enough to support action, we im
 ## Pipeline
 
 ```mermaid
-%%{init: {"flowchart": {"padding": 18, "nodeSpacing": 40, "wrappingWidth": 300, "htmlLabels": true}, "themeVariables": {"fontSize": "13px"}}}%%
 flowchart LR
     A["Recorded clips<br>finger pushes a cap"] --> B["Tracking fingertip<br>& cap positions"]
     B --> C["WM predicts the<br>cap's displacement"]
@@ -60,7 +59,7 @@ Input: the cap's position relative to the fingertip, and the fingertip's displac
 
 We selected a low-dimensional dynamics model over state-of-the-art visual WMs (e.g., V-JEPA 2-AC, DINO-WM, Cosmos) because inferring from pixels is unnecessary here: with a fixed camera and a scene containing only a disc and a fingertip, the state is directly observable as four variables. Visual WMs would also require substantially more data and compute, and would still face a human-hand-to-robot-probe gap in image space. Given nine minutes of demonstration data, a small MLP on the extracted state is the better fit. It trains in about a minute on a NVIDIA RTX 4060 laptop GPU (8 GB) and can be queried at ~10⁵ evaluations per second, which the planner needs. We feed the model the relative position, which makes it invariant to where the push occurs in the workspace, and apply rotation and reflection augmentation to enforce isotropy of the contact dynamics. 
 
-### Simulator and retargeting
+### Simulator
 
 We modelled the box, cap, and obstacles in MuJoCo using their measured dimensions. The robot pushes with a rigid probe. We did not learn a hand-to-robot mapping since the task requires the robot only to push the object, not to reproduce a specific human hand motion.
 
