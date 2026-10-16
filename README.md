@@ -161,8 +161,6 @@ The present setup simplifies the real scenario. To better anticipate the attacke
 
 ## Quickstart
 
-## Quickstart
-
 Set up virtual environment and package:
 
 ```
